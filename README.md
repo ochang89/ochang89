@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oliver Chang.
 - 👀 I’m interested in learning new technologies and coding in Python!
-- 🌱 I’m currently learning Django, Docker & Python Algorithms. I plan to learn Kubernetes, Bash shell scripting and more AWS services down the line.
+- 🌱 I’m currently learning SQL, Django, Docker & Python Algorithms. I plan to learn Kubernetes, Bash shell scripting and more AWS services down the line.
 - 📫 How to reach me: ochang89@gmail.com
 
 <!---

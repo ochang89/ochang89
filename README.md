@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Oliver Chang.
+- 👋 Hi, I’m Oliver Chang, aspiring full stack developer
 - 👀 I’m interested in learning new technologies and coding in Python!
-- 🌱 I’m currently learning SQL, Django, Docker & Python Algorithms. I plan to learn Kubernetes, Bash shell scripting and more AWS services down the line.
-- Current projects: I'm working on a bill tracker using Tkinter. I'm planning to learn Pyqt5 for future apps.
+- 🌱 I have experience with Python, Django, SQL, HTML & JSON
+- 🐱‍🏍 Constantly refactoring my projects and creating more
 - 📫 How to reach me: ochang89@gmail.com
 
 <!---
